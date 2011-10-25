@@ -1,0 +1,6 @@
+.DS_Store
+*build/
+*.lock-wscript
+*.node
+nohup.out
+config/*
