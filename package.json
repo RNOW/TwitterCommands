@@ -1,0 +1,9 @@
+{
+  "name": "node-rightnow",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "0.5.10",
+    "express": "2.2.0",
+    "twitter-node": "https://github.com/technoweenie/twitter-node/tarball/ec4eb261891d78a88faabea54ea1016fd884b804"
+  }
+}
